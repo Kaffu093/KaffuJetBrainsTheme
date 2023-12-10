@@ -1,14 +1,15 @@
 <idea-plugin>
     <id>Cappuccino093.CappuccinoTheme</id>
-    <version>3.0.2</version>
+    <version>3.0.3</version>
     <name>Cappuccino's Theme</name>
     <category>UI</category>
     <vendor email="cappuccino@cappuccino093.com" url="https://cappuccino093.com">Cappuccino</vendor>
     <idea-version since-build="231" until-build="241.*"/>
     <description><![CDATA[
     My own theme for JetBrains based IDEs based on color blue!
-	<br /> <br />
+	<br />
 	<img src="https://cappuccinotheme.blob.core.windows.net/images/CappuccinoJetBrainsTheme.png" alt="Cappuccino's Theme" />
+	<br />
     <bold>NOTE:</bold> This is a preview version of the theme, it's not finished and is being built on the go. Expect bugs, issues and missing colors.
   ]]></description>
     <change-notes><![CDATA[
