@@ -1,0 +1,171 @@
+{
+	"name": "Dark",
+	"dark": true,
+	"author": "Cappuccino093",
+	"nameKey": "CappuccinoTheme",
+	"editorScheme": "theme/CappuccinoTheme.xml",
+	"colors": {
+		"Primary": "#0475CF",
+		"Secondary": "#1B3F6B",
+		"Tertiary": "#6E5EE2",
+		"ControlPrimary": "#18599C",
+		"ControlSecondary": "#1267B5",
+		"Foreground": "#A1BBEC",
+		"DisabledForeground": "#A1BBEC70",
+		"Background": "#17263E",
+		"Border": "#1B3F6B",
+		"Selection": "#1B3F6B",
+		"TextSelection": "#1267B5AA",
+		"SelectedTab": "#193254",
+		"Success": "#77C166",
+		"Warning": "#D5BF11",
+		"WarningBackground": "#4A4215",
+		"Error": "#DF6657",
+		"ErrorBackground": "#741916"
+	},
+	"ui": {
+		"*": {
+			"background": "Background",
+			"foreground": "Foreground",
+			"infoForeground": "Primary",
+			"successForeground": "Success",
+			"selectionBackground": "Selection",
+			"selectionForeground": "Foreground",
+			"selectionInactiveBackground": "Selection",
+			"selectionBackgroundInactive": "Foreground",
+			"disabledBackground": "Background",
+			"inactiveBackground": "Background",
+			"borderColor": "Border",
+			"disabledForeground": "DisabledForeground",
+			"disabledText": "DisabledForeground",
+			"focusColor": "Secondary",
+			"focusedBorderColor": "Secondary",
+			"hoverBorderColor": "Secondary",
+			"pressedBorderColor": "Secondary",
+			"separatorColor": "Border",
+			"lineSeparatorColor": "Border"
+		},
+		"ActionButton": {
+			"hoverBorderColor": "Secondary",
+			"pressedBorderColor": "Secondary"
+		},
+		"Button": {
+			"startBackground": "ControlPrimary",
+			"endBackground": "ControlPrimary",
+			"startBorderColor": "ControlPrimary",
+			"endBorderColor": "ControlPrimary",
+			"default": {
+				"foreground": "Foreground",
+				"startBackground": "ControlPrimary",
+				"endBackground": "ControlPrimary",
+				"startBorderColor": "ControlPrimary",
+				"endBorderColor": "ControlPrimary"
+			}
+		},
+		"SegmentedButton": {
+			"selectedStartBorderColor": "ControlSecondary",
+			"selectedEndBorderColor": "ControlSecondary",
+			"selectedButtonColor": "ControlSecondary",
+			"focusedSelectedButtonColor": "ControlSecondary"
+		},
+		"Borders": {
+			"color": "Border",
+			"ContrastBorderColor": "Border"
+		},
+		"ComboBox": {
+			"nonEditableBackground": "Background",
+			"modifiedItemForeground": "Foreground",
+			"ArrowButton": {
+				"iconColor": "Foreground",
+				"disabledIconColor": "DisabledForeground",
+				"nonEditableBackground": "Background"
+			}
+		},
+		"ComboPopup.border": "Border",
+		"CompletionPopup": {
+			"matchForeground": "Foreground"
+		},
+		"Component": {
+			"errorFocusColor": "Error",
+			"inactiveErrorFocusColor": "Error",
+			"warningFocusColor": "Warning",
+			"inactiveWarningFocusColor": "Warning",
+			"iconColor": "Foreground",
+			"hoverIconColor": "Foreground"
+		},
+		"Counter": {
+			"background": "Background",
+			"foreground": "Foreground"
+		},
+		"DebuggerPopup": {
+			"borderColor": "Border"
+		},
+		"DefaultTabs": {
+			"underlineColor": "Secondary",
+			"inactiveUnderlineColor": "Secondary",
+			"hoverBackground": "Secondary"
+		},
+		"DragAndDrop": {
+			"borderColor": "Border",
+			"rowBackground": "Background",
+			"areaForeground": "Foreground",
+			"areaBackground": "Background"
+		},
+		"Editor": {
+			"background": "Background",
+			"foreground": "Foreground",
+			"shortcutForeground": "Foreground"
+		},
+		"EditorPane": {
+			"inactiveBackground": "Background"
+		},
+		"EditorTabs": {
+			"underlineColor": "Secondary",
+			"underlineHeight": 4,
+			"underlinedTabBackground": "Secondary",
+			"inactiveColoredFileBackground": "Background"
+		},
+		"InplaceRefactoringPopup": {
+			"borderColor": "Border"
+		},
+		"Link": {
+			"activeForeground": "Primary",
+			"hoverForeground": "Primary",
+			"pressedForeground": "Primary",
+			"visitedForeground": "Tertiary",
+			"secondaryForeground": "Foreground"
+		},
+		"MemoryIndicator": {
+			"usedBackground": "Secondary",
+			"allocatedBackground": "ControlSecondary"
+		},
+		"NavBar": {
+			"borderColor": "Border"
+		},
+		"Notification": {
+			"background": "Background",
+
+			"errorForeground": "Error",
+			"errorBackground": "ErrorBackground",
+			"errorBorderColor": "Error",
+
+			"MoreButton": {
+				"innerBorderColor": "Border"
+			},
+
+			"ToolWindow": {
+				"informativeForeground": "Foreground",
+				"informativeBackground": "Background",
+				"informativeBorderColor": "Border",
+
+				"warningForeground": "Warning",
+				"warningBackground": "WarningBackground",
+				"warningBorderColor": "Warning",
+
+				"errorForeground": "Error",
+				"errorBackground": "ErrorBackground",
+				"errorBorderColor": "Error"
+			}
+		}
+	}
+}
