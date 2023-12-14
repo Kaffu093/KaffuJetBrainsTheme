@@ -1,6 +1,7 @@
 # Cappuccino's Theme! ☕
 
-This is my personal Visual Studio Code theme, based on the blue color because it's my favorite color. I hope you like it!
+This is my personal Visual Studio Code theme, based on the blue color because it's my favorite color. I hope you like
+it!
 
 ## Preview 📷
 
@@ -36,7 +37,8 @@ I'll be so grateful!
 
 ### Through the .jar file 📦
 
-- Download the .jar file from the [releases](https://github.com/Cappuccino093/CappuccinoJetBrainsTheme/releases) section.
+- Download the .jar file from the [releases](https://github.com/Cappuccino093/CappuccinoJetBrainsTheme/releases)
+  section.
 - Open IntelliJ IDEA.
 - Go to `File` > `Settings` > `Plugins`.
 - Click on the `Install Plugin from Disk...` button.
