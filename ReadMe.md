@@ -5,7 +5,7 @@ it!
 
 ## Preview 📷
 
-![Preview](https://cappuccinotheme.blob.core.windows.net/images/CappuccinoJetBrainsTheme.png)
+![Preview](https://storage.googleapis.com/cappuccino-theme/previews/CappuccinoJetBrainsTheme.png)
 
 ## Compatibility 📋
 
