@@ -214,3 +214,11 @@ All notable changes to this project will be documented in this file.
 ## 3.0.3
 
 - Fixed bug in JetBrains Theme related to the name of the theme
+
+## 3.0.4
+
+- Fixed bug in JetBrains Theme related to the scheme
+
+## 3.0.5
+
+- Changed background colors of the JetBrains Theme
