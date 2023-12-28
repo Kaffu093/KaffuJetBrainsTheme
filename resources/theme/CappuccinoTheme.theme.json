@@ -8,15 +8,15 @@
 		"Primary": "#0475CF",
 		"Secondary": "#1B3F6B",
 		"Tertiary": "#6E5EE2",
-		"ControlPrimary": "#18599C",
-		"ControlSecondary": "#1267B5",
+		"ControlPrimary": "#1B3F6B",
+		"ControlSecondary": "#1B3F6B",
 		"Foreground": "#A1BBEC",
 		"DisabledForeground": "#A1BBEC70",
-		"Background": "#193254",
+		"Background": "#17263E",
 		"Border": "#1B3F6B",
 		"Selection": "#1B3F6B",
 		"TextSelection": "#1267B5AA",
-		"SelectedTab": "#193254",
+		"SelectedTab": "#1B3F6B",
 		"Success": "#77C166",
 		"Warning": "#D5BF11",
 		"WarningBackground": "#4A4215",
@@ -104,9 +104,9 @@
 			"borderColor": "Border"
 		},
 		"DefaultTabs": {
-			"underlineColor": "Secondary",
-			"inactiveUnderlineColor": "Secondary",
-			"hoverBackground": "Secondary"
+			"underlineColor": "SelectedTab",
+			"inactiveUnderlineColor": "SelectedTab",
+			"hoverBackground": "SelectedTab"
 		},
 		"DragAndDrop": {
 			"borderColor": "Border",
@@ -123,8 +123,8 @@
 			"inactiveBackground": "Background"
 		},
 		"EditorTabs": {
-			"underlineColor": "Secondary",
-			"underlinedTabBackground": "Secondary",
+			"underlineColor": "SelectedTab",
+			"underlinedTabBackground": "SelectedTab",
 			"inactiveColoredFileBackground": "Background"
 		},
 		"InplaceRefactoringPopup": {
