@@ -1,11 +1,11 @@
-# Cappuccino's Theme! ☕
+# Kaffu's Theme! ☕
 
 This is my personal Visual Studio Code theme, based on the blue color because it's my favorite color. I hope you like
 it!
 
 ## Preview 📷
 
-![Preview](https://storage.googleapis.com/cappuccino-theme/previews/CappuccinoJetBrainsTheme.png)
+![Preview](https://storage.googleapis.com/Kaffu-theme/previews/KaffuJetBrainsTheme.png)
 
 ## Compatibility 📋
 
@@ -27,17 +27,17 @@ I'll be so grateful!
 
 - Open IntelliJ IDEA.
 - Go to `File` > `Settings` > `Plugins`.
-- Search for `Cappuccino's Theme`.
+- Search for `Kaffu's Theme`.
 - Click on the `Install` button.
 - Restart IntelliJ IDEA.
 - Go to `File` > `Settings` > `Appearance & Behavior` > `Appearance`.
-- Select `Cappuccino's Theme` in the `Theme` dropdown.
+- Select `Kaffu's Theme` in the `Theme` dropdown.
 - Click on the `OK` button.
 - Restart IntelliJ IDEA.
 
 ### Through the .jar file 📦
 
-- Download the .jar file from the [releases](https://github.com/Cappuccino093/CappuccinoJetBrainsTheme/releases)
+- Download the .jar file from the [releases](https://github.com/Kaffu093/KaffuJetBrainsTheme/releases)
   section.
 - Open IntelliJ IDEA.
 - Go to `File` > `Settings` > `Plugins`.
@@ -45,7 +45,7 @@ I'll be so grateful!
 - Select the .jar file.
 - Restart IntelliJ IDEA.
 - Go to `File` > `Settings` > `Appearance & Behavior` > `Appearance`.
-- Select `Cappuccino's Theme` in the `Theme` dropdown.
+- Select `Kaffu's Theme` in the `Theme` dropdown.
 - Click on the `OK` button.
 - Restart IntelliJ IDEA.
 
@@ -55,7 +55,7 @@ If you think that this theme needs more languages or some changes, you can open 
 
 If you want to open an issue, you can follow the next steps:
 
-- Go to the [issues](https://github.com/Cappuccino093/CappuccinoJetBrainsTheme/issues) section.
+- Go to the [issues](https://github.com/Kaffu093/KaffuJetBrainsTheme/issues) section.
 - Click on the `New issue` button.
 - Fill the form with the information of the issue.
 - Click on the `Submit new issue` button.

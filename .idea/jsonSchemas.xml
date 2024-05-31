@@ -12,7 +12,7 @@
               <option name="patterns">
                 <list>
                   <Item>
-                    <option name="path" value="resources/theme/CappuccinoJetBrainsTheme.theme.json" />
+                    <option name="path" value="resources/theme/KaffuJetBrainsTheme.theme.json" />
                   </Item>
                 </list>
               </option>
