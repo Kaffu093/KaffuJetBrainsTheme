@@ -1,10 +1,10 @@
 <idea-plugin>
     <id>Kaffu093.KaffuJetBrainsTheme</id>
-    <version>4.0.1</version>
+    <version>4.0.2</version>
     <name>Kaffu's Theme</name>
     <category>UI</category>
     <vendor email="kaffu@kaffu093.com" url="https://kaffu093.com">Kaffu</vendor>
-    <idea-version since-build="232" until-build="242.*"/>
+    <idea-version since-build="232" until-build="243.*"/>
     <description>
         My own theme for JetBrains based IDEs based on color blue!
     </description>
@@ -282,6 +282,10 @@
         ## 4.0.1
 
         - Fixed the Preview image in the ReadMe file
+
+		## 4.0.2
+
+        - Update Compatibility with Build 243*
     </change-notes>
     <depends>com.intellij.modules.platform</depends>
     <extensions defaultExtensionNs="com.intellij">
